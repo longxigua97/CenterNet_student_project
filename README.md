@@ -28,7 +28,6 @@
       <th>メリット</th>
       <th>デメリット</th>
       <th>採用</th>
-      <th>リンク</th>
     </tr>
   </thead>
   <tbody>
@@ -38,15 +37,13 @@
       <td>形状変化に強く、アンカー設計が不要</td>
       <td>学習収束に時間を要する</td>
       <td>⭕️</td>
-      <td>---</td>
     </tr>
     <tr>
-      <td>SSD</td>
+      <td>Yolo&SSD</td>
       <td>アンカーベース</td>
       <td>リアルタイム性が高い</td>
       <td>アンカーの事前設計が必要、形状変化に弱い</td>
       <td>❎</td>
-      <td>---</td>
     </tr>
   </tbody>
 </table>
